@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Exponent Github Explorer",
   "main": "main.js",
-  "author": null,
+  "author": "Connor McEwen <connor.mcewen@gmail.com> (http://cmcewen.com/)",
   "dependencies": {
     "buffer": "^4.3.0",
     "github-api": "^0.10.7",
